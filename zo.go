@@ -3,7 +3,7 @@
  * All rights reserved.
  */
 
-package dm
+package damengo
 
 const (
 	ParamDataEnum_Null = 0

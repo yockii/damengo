@@ -1,6 +1,6 @@
 // 本方言包基于gorm v1.9.16开发，需要配合达梦数据库驱动使用
 // 推荐连接CASE_SENSITIVE=N的数据库使用，因为gorm中对标识符是否加双引号策略不一
-package dm
+package damengo
 
 import (
 	"crypto/sha1"

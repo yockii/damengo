@@ -1,4 +1,4 @@
-package dm
+package damengo
 
 import (
 	"database/sql"

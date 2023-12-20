@@ -3,7 +3,7 @@
  * All rights reserved.
  */
 
-package dm
+package damengo
 
 const (
 	PARAM_COUNT_LIMIT int32 = 65536

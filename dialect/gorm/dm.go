@@ -1,5 +1,5 @@
 // 本方言包基于gorm v1.24.2开发，需要配合达梦数据库驱动使用
-package dm
+package damengo
 
 import (
 	"database/sql"

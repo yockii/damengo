@@ -3,7 +3,7 @@
  * All rights reserved.
  */
 
-package dm
+package damengo
 
 type StructDescriptor struct {
 	m_typeDesc *TypeDescriptor
